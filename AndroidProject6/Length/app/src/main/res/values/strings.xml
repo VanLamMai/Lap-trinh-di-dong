@@ -1,0 +1,22 @@
+<resources>
+    <string name="author">Mai Thanh Lâm</string>
+    <string name="computer">LapTop</string>
+    <string name="textbox_hint">Nhập độ dài</string>
+    <string name="app_name">Đổi đơn vị đo chiều dài</string>
+    <string name="haily_name">Hải lý</string>
+    <string name="dam_name">Dặm</string>
+    <string name="km_name">Kilometer</string>
+    <string name="phy_name">Lý</string>
+    <string name="met_name">Met</string>
+    <string name="yar_name">Yard</string>
+    <string name="fot_name">Foot</string>
+    <string name="inch_name">Inches</string>
+    <string name="haily_unit">Hải lý</string>
+    <string name="dam_unit">Dặm</string>
+    <string name="km_unit">Kilometer</string>
+    <string name="phy_unit">Lý</string>
+    <string name="met_unit">Met</string>
+    <string name="yar_unit">Yard</string>
+    <string name="fot_unit">Foot</string>
+    <string name="inch_unit">Inches</string>
+</resources>

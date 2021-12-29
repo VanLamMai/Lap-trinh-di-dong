@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguageApp</string>
+    <string name="welcome">Accueil!</string>
+    <string name="email">Adresse e-mail</string>
+    <string name="password">Mot de pase</string>
+    <string name="login">Connexion</string>
+    <string name="do_not_have_account">Ne pas avoir un compte? Signer</string>
+</resources>
